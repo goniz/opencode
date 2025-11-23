@@ -18,6 +18,20 @@
 
 ---
 
+## What is OpenCode?
+
+OpenCode is an open-source AI-powered coding agent that runs directly in your terminal. It helps developers write, edit, and understand code using natural language interactions powered by AI models like Claude, OpenAI, Google Gemini, or local models.
+
+**Key Features:**
+- 🤖 **Built-in Agents** - Switch between specialized agents (build, plan, general) optimized for different tasks
+- 🔌 **Provider Agnostic** - Works with multiple AI providers, not locked to a single vendor
+- 🔧 **LSP Support** - Integrated Language Server Protocol support for enhanced code intelligence
+- 🎨 **Terminal-First** - Beautiful TUI interface built for power users and terminal enthusiasts
+- 🏗️ **Client/Server Architecture** - Flexible architecture allowing remote control and multiple frontends
+- 💯 **100% Open Source** - Fully transparent codebase under MIT license
+
+---
+
 ### Installation
 
 ```bash
